@@ -8,7 +8,7 @@
 ## Installing VScode
 1. Use this [link](https://code.visualstudio.com/download)  to download **VisualStuioCode** according to Operation System you have.
 2. Install the application on your laptop and open the application, you should see a window like this:
-![Image](https://github.com/meAImee/cse-15l-labreport1/blob/main/VScodeView.png)
+![Image](https://githubusercontent.com/meAImee/cse-15l-labreport1/master/VScodeView.png)
 
 
 
